@@ -1,5 +1,17 @@
 # Changes
 
+## [1.16.1](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.16.0...firestore/v1.16.1) (2024-08-05)
+
+
+### Bug Fixes
+
+* **firestore:** Retry batchwrite only on retryable errors ([#10603](https://github.com/googleapis/google-cloud-go/issues/10603)) ([23e5df5](https://github.com/googleapis/google-cloud-go/commit/23e5df5b8ee40317ab0d1ac6bb2b92ccc054426c))
+
+
+### Documentation
+
+* **firestore:** Minor documentation clarifications on FindNearest DistanceMeasure options ([5b4b0f7](https://github.com/googleapis/google-cloud-go/commit/5b4b0f7878276ab5709011778b1b4a6ffd30a60b))
+
 ## [1.16.0](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.15.0...firestore/v1.16.0) (2024-07-24)
 
 
