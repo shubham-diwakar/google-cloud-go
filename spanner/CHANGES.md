@@ -1,5 +1,12 @@
 # Changes
 
+## [1.66.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.65.0...spanner/v1.66.0) (2024-08-05)
+
+
+### Features
+
+* **spanner/admin/database:** Add support for Cloud Spanner Incremental Backups ([d949cc0](https://github.com/googleapis/google-cloud-go/commit/d949cc0e5d44af62154d9d5fd393f25a852f93ed))
+
 ## [1.65.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.64.0...spanner/v1.65.0) (2024-07-29)
 
 
