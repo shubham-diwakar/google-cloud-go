@@ -1,6 +1,21 @@
 # Changes
 
 
+## [1.44.0](https://github.com/googleapis/google-cloud-go/compare/storage/v1.43.0...storage/v1.44.0) (2024-08-05)
+
+
+### Features
+
+* **storage/transfermanager:** Checksum full object downloads ([#10569](https://github.com/googleapis/google-cloud-go/issues/10569)) ([c366c90](https://github.com/googleapis/google-cloud-go/commit/c366c908534ef09442f1f3e8a4f74bd545a474fb))
+* **storage:** Add full object checksum to reader.Attrs ([#10538](https://github.com/googleapis/google-cloud-go/issues/10538)) ([245d2ea](https://github.com/googleapis/google-cloud-go/commit/245d2eaddb4862da7c8d1892d5d462bf390adb2b))
+
+
+### Bug Fixes
+
+* **storage/transfermanager:** Correct Attrs.StartOffset for sharded downloads ([#10512](https://github.com/googleapis/google-cloud-go/issues/10512)) ([01a5cbb](https://github.com/googleapis/google-cloud-go/commit/01a5cbba6d9d9f425f045b58fa16d8c85804c29c))
+* **storage:** Bump google.golang.org/grpc@v1.64.1 ([8ecc4e9](https://github.com/googleapis/google-cloud-go/commit/8ecc4e9622e5bbe9b90384d5848ab816027226c5))
+* **storage:** Update dependencies ([257c40b](https://github.com/googleapis/google-cloud-go/commit/257c40bd6d7e59730017cf32bda8823d7a232758))
+
 ## [1.43.0](https://github.com/googleapis/google-cloud-go/compare/storage/v1.42.0...storage/v1.43.0) (2024-07-03)
 
 
